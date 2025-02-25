@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **FullStack Web Development, Competitive Programming and Problem Solving**
 
-- 📫 How to reach me **sachinsingh9272@gmail.com**
+- 📫 How to reach me **mshivansh549@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
