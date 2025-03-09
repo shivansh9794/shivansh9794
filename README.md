@@ -15,7 +15,6 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></p>
+<p> <img align="center" src="https://streak-stats.demolab.com/?user=shivansh9794" /> </p></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></p>
-
-<p> <img align="center" src="https://streak-stats.demolab.com/?user=shivansh9794" /> </p>
