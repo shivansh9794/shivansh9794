@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning **Next js and Typescript**
 
-- 💬 Ask me about **FullStack Web Development, Competitive Programming and Problem Solving**
+- 💬 Ask me about **FullStack Web Development, Java Programming and MERN Stack Development **
 
 - 📫 How to reach me **mshivansh549@gmail.com**
 
