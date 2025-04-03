@@ -44,5 +44,5 @@
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
-<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></span><span> <img align="center" src="https://streak-stats.demolab.com?user=shivansh9794" /> </p></span>
+<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></span><span> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh9794"/></p></span>
 
