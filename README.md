@@ -43,6 +43,9 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
+### Streak Record
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shivansh9794)
 
-<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></span><span> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh9794"/></p></span>
+### Github Stats
+<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></span>
 
