@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm @shivansh9794 </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shivansh9794&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh9794" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shivansh9794&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh9794" />
+</p>
 
 - 🔭 I’m currently learning **Next js and Typescript**
-
 - 💬 Ask me about *FullStack Web Development, Java Programming and MERN Stack Development*
-
 - 📫 How to reach me **mshivansh549@gmail.com**
 
 # 🛠️ Technologies & Tools
@@ -26,6 +27,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -34,6 +37,8 @@
 
 ### Tools & Platforms
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Multer](https://img.shields.io/badge/-Multer-ef4444?style=flat&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -49,6 +54,5 @@
 ### Github Stats
 <span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></span>
 
-### Most Used Languages  
-
+### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh9794&layout=pie)](https://github.com/shivansh9794/github-readme-stats)
