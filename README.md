@@ -3,6 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivansh9794&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh9794" />
+  
 </p>
 - 🔭 I’m currently learning **Next js and Typescript**
 - 💬 Ask me about *FullStack Web Development, Java Programming and MERN Stack Development*
