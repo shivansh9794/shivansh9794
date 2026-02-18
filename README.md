@@ -51,7 +51,7 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shivansh9794)
 
 ### Github Stats
-<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794" /></span>
+<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794"/></span>
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh9794&layout=pie)](https://github.com/shivansh9794/github-readme-stats)
