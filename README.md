@@ -47,8 +47,8 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-<!--### Streak Record
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shivansh9794)-->
+<!--### Streak Record-->
+<!--![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shivansh9794)-->
 <!--### Github Stats
  <span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="shivansh9794"/></span> -->
 <!--### Most Used Languages
@@ -63,7 +63,8 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/shivansh9794">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=shivansh9794&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <!-- <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=shivansh9794&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" /> -->
+          <img src="https://nirzak-streak-stats.vercel.app/?user=shivansh9794"/>
         </a>
       </p>
     </td>
@@ -71,7 +72,8 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/shivansh9794">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=shivansh9794&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <!-- <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=shivansh9794&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" /> -->
+          <img src="https://github-readme-stats.vercel.app/api?username=shivansh9794&show_icons=true&locale=en" alt="Something Went Wrong on Stats"/>
         </a>
       </p>
     </td>
